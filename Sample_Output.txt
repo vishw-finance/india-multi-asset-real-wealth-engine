@@ -1,0 +1,25 @@
+====================================================================
+          CONSOLIDATED WEALTH DASHBOARD (15-YEAR HORIZON)
+====================================================================
+Active Windfall Injections:  Yr 3: ₹50,000.00
+
+[1] ACTIVE ROUTE BREAKDOWN (NOMINAL -> REAL TODAY'S VALUE)
+Route 1 (Step-Up SIP):        ₹39,94,812.45  ->   ₹17,89,384.12
+Route 2 (LumpSum+Windfalls):   ₹7,42,156.80  ->    ₹3,32,431.90
+Route 3 (Gold ETF):            ₹5,48,910.22  ->    ₹2,45,872.15
+
+[2] COMBINED NOMINAL SUMMARY (Future Rupees)
+Total Principal Invested:     ₹23,68,377.26
+Total Nominal Gains:          ₹29,17,502.21
+Total Nominal Corpus:         ₹52,85,879.47
+
+[3] COMBINED REAL SUMMARY (Today's Purchasing Power)
+Real Principal Invested:      ₹14,82,910.40
+Real Purchasing Gains:         ₹8,84,777.77
+Total Real Corpus:            ₹23,67,688.17
+
+[4] EXECUTION EFFICIENCY & MATURITY ALLOCATION
+Total Gold ETF Brokerage:    ₹300.00 (Saved ₹600.00 vs monthly orders)
+Equities (SIP + LumpSum/Flexi): 89.6%
+Gold (GOLDIETF/SBIGOLD):        10.4%
+====================================================================
