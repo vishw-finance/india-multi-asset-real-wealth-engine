@@ -43,6 +43,6 @@ Standard retail SIP and return calculators project future wealth in **nominal ru
 Requires **Python 3.8+** (uses Python standard library only—no external `pip` dependencies required).
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/india-multi-asset-real-wealth-engine.git](https://github.com/YOUR_USERNAME/india-multi-asset-real-wealth-engine.git)
+git clone [https://github.com/vishw-finance/india-multi-asset-real-wealth-engine.git](https://github.com/vishw-finance/india-multi-asset-real-wealth-engine.git)
 cd india-multi-asset-real-wealth-engine
 python wealth_engine.py
